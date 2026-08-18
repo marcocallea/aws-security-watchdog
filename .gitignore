@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Terraform state 
+*.tfstate
+*.tfstate.*
+
+# Terraform working dir 
+.terraform/
+
+.DS_Store
